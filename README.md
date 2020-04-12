@@ -20,4 +20,4 @@ Admin:
 - Melihat nomor antrean yang tersedia
 
 
-#### Video Pemakaian Aplikasi:
+#### Video Pemakaian Aplikasi: https://youtu.be/ziuBjgCoc8A
