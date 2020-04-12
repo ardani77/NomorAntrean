@@ -6,7 +6,7 @@ Seorang user dapat mengambil/mendapatkan sebuah nomor antrian.
 
 #### Cara Pakai:
 - Jalankan ```main.py``` untuk memulai aplikasi
-- Login dengan akun default: ```user:user``` sebagai User dan ```admin:admin``` sebagai Admin.
+- Login dengan akun yang terdapat pada database(createdatabase.py).
 
 #### Fitur:
 User:
