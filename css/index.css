@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "Bebas Neue";
+    src: url(../fonts/BebasNeue-Regular.ttf);
+    }
+
+@font-face {
+    font-family: "Fira Sans";
+    src: url(../fonts/FiraSans-Regular.ttf);
+    }
+
+.brand-logo {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    font-family: 'Bebas Neue' !important;
+    color: rgb(0, 0, 0) !important;
+  }
+
+.vertical-align {
+    vertical-align: middle;
+}
+
+.parallax-container {
+    height: 700px;
+    padding: 20px 0;
+}
+
+.parallax img   {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+.request-join {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(24, 199, 24);
+    color: rgb(255, 255, 255);
+    padding: 5px 50px;
+    font-size: 30px;
+    font-family: 'Bebas Neue';
+    cursor: pointer;
+    border-color: #014e0e;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+
+.request-join:focus{
+    background-color: rgb(0, 255, 64) !important;
+}
+
+.font-bebas {
+    font-family: 'Bebas Neue';
+    color: rgb(0, 0, 0);
+}
+
+.font-fira {
+    font-family: 'Fira Sans';
+}
+
+.bg-hitam {
+    background: rgba(0, 0, 0, 0.705);
+    padding: 10px;
+    /* opacity: 0.5 !important; */
+}
+
+.transparent {
+    box-shadow:none !important;
+}
+
+.clients h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.705);
+}
+
+.section, footer    {
+    padding: 10px 0;
+}

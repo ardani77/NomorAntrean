@@ -1,0 +1,16 @@
+.brand-logo {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+}
+
+.bg-hitam {
+    background: rgba(0, 0, 0, 0.705);
+    padding: 100px;
+    padding-bottom: 190px;
+    /* opacity: 0.5 !important; */
+}
+
+.card {
+    border-radius: 10px;
+}
